@@ -7,7 +7,7 @@ setup(
     author_email='p.t.g.jackson@durham.ac.uk',
     url='https://github.com/philipjackson/styleaug',
     license='MIT',
-    install_requires=['torch','torchvision','numpy'],
-    packages=find_packages(),
+    #install_requires=['torch','torchvision','numpy'],
+    #packages=find_packages(),
     include_package_data=True
 )
